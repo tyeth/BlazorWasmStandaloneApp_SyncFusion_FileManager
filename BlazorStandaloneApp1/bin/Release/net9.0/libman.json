@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "js-fatfs@0.2.1",
+      "destination": "wwwroot/js/fatfs"
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "adafruit/littlefs-pure-js@latest",
+      "destination": "wwwroot/js/littlefs",
+    }
+  ]
+}

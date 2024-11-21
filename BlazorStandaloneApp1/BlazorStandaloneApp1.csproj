@@ -10,11 +10,16 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="9.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.0" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.175" />
     <PackageReference Include="Syncfusion.Blazor.FileManager" Version="27.2.2" />
     <PackageReference Include="Syncfusion.Blazor.Inputs" Version="27.2.2" />
     <PackageReference Include="Syncfusion.Blazor.Themes" Version="27.2.2" />
+    <PackageReference Include="System.Private.Uri" Version="4.3.2" />
   </ItemGroup>
-
+	
+  <!--<ItemGroup>
+	<Content Include="wwwroot\**" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>-->
   <ItemGroup>
     <ServiceWorker Include="wwwroot\service-worker.js" PublishedContent="wwwroot\service-worker.published.js" />
   </ItemGroup>

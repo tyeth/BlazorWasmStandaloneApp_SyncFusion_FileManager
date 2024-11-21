@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "BlazorStandaloneApp1",
   "resources": {
-    "hash": "sha256-8Ms1VlKs4pOaDNSQcckz4MblLgXLxGRk3Eclc9w+iJo=",
+    "hash": "sha256-UixsvyZgmURemCcWV6WZuRlr8ImknFZcPiOBgf3dMQA=",
     "fingerprinting": {
-      "BlazorStandaloneApp1.dc52jpm3xo.wasm": "BlazorStandaloneApp1.wasm",
+      "BlazorStandaloneApp1.8przh6h35n.wasm": "BlazorStandaloneApp1.wasm",
       "Microsoft.AspNetCore.Components.Forms.tnxpvakopy.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.albou2ia9j.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.9ud07l9u0u.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -85,7 +85,7 @@
       "System.Xml.Linq.bbx5kr3gw0.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.d6aos39j82.wasm": "System.Xml.ReaderWriter.wasm",
       "dotnet.native.o2m8a6dr9k.js": "dotnet.native.js",
-      "dotnet.native.o02o0vxgl1.wasm": "dotnet.native.wasm",
+      "dotnet.native.hnqfom4cky.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.o8gq1i8bk6.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
@@ -99,7 +99,7 @@
       "dotnet.runtime.o8gq1i8bk6.js": "sha256-uD1t4tsPtmIHsx30SC4OztehGGaHVDksFD38rL2e3P4="
     },
     "wasmNative": {
-      "dotnet.native.o02o0vxgl1.wasm": "sha256-yPPW2At4qtf3cXkecHcqgy2vxWCPhIAJnOGrH9Yg8ng="
+      "dotnet.native.hnqfom4cky.wasm": "sha256-U1twN5lnL3H0Ngmoq3pqZI2wedj8yWT84FXPwpJjQb0="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -107,7 +107,7 @@
       "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "coreAssembly": {
-      "BlazorStandaloneApp1.dc52jpm3xo.wasm": "sha256-c2F2UOOHYvKaSQD3sXQQNKYpINTNL59O3zSfXxWmcXg=",
+      "BlazorStandaloneApp1.8przh6h35n.wasm": "sha256-/M8Yg+rLjBo8GJn/jcOhFTdssVI/brJOqZlKfWoCJi8=",
       "Microsoft.AspNetCore.Components.Forms.tnxpvakopy.wasm": "sha256-V2J0DC1lLQaD5q0ajuTlgKy9TQWHpdONi47AqzjU3P0=",
       "Microsoft.AspNetCore.Components.albou2ia9j.wasm": "sha256-UunV5BZZ4ybpRUUgWzSoo880/Vw/e+ymfbKkc1rr0dQ=",
       "Microsoft.AspNetCore.Components.Web.9ud07l9u0u.wasm": "sha256-787xf4bVT+CV3EHOy4+1do6tvehbvopx7JYzwhTgDLM=",

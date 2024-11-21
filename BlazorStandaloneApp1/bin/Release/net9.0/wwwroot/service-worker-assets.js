@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "8C3+VsEo",
+  "version": "hpsMQESC",
   "assets": [
     {
       "hash": "sha256-7+Ybb7CBg5eS51SdCTu3h+2dAK76HR8j0vHFuzWuIFg=",
@@ -418,12 +418,12 @@ self.assetsManifest = {
       "url": "_content/Syncfusion.Blazor.Themes/tailwind.css"
     },
     {
-      "hash": "sha256-V1xbDitPMEKWJnwTTDRa2VG7iUr99uslUBTbYudJ+Vc=",
-      "url": "_framework/BlazorStandaloneApp1.lhf1f8d9mt.pdb"
+      "hash": "sha256-hvlWJqeLnfXj1f1r79wUS150XVukx1A01SDKHy1Ibpw=",
+      "url": "_framework/BlazorStandaloneApp1.2m6kw2gxqk.pdb"
     },
     {
-      "hash": "sha256-G3KaFfnhpU0kWNetnO5CifnH8zVyGKZIq47xg2HNRx4=",
-      "url": "_framework/BlazorStandaloneApp1.rkn380dwvc.wasm"
+      "hash": "sha256-EtiASEs6J1PgkJ2vn4qKWyusjKvaGCh3oAeu5HfS+88=",
+      "url": "_framework/BlazorStandaloneApp1.626lil5c1n.wasm"
     },
     {
       "hash": "sha256-8hTdrmR59LAJRrDu8LLRlNn641/iWIAjzG1GcCsAhR0=",
@@ -1258,7 +1258,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-oY4OWR938N9MH8DQL/7tXAfFxpfMUkJrNH1EjuEWZk8=",
+      "hash": "sha256-oq0FtptuCRAtYKFoysmrcs6PI1S4c41xvXuOWCkxAZE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -1326,8 +1326,68 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-I1lhg3d6rxnf7WZhwYZMfhs7Z+ouiKuyzmx63uuimWA=",
+      "hash": "sha256-kA0OXyeGOyTPl6244hdlvCeUlNcaWPRIWCH091iKTn8=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-GVVOJEjPQ+aqWhpkGtIahl2nd0HBYZ90ZQL7M/B8vMM=",
+      "url": "js/fatfs/changelog.md"
+    },
+    {
+      "hash": "sha256-tvRJmmIm+NtFUGqjbvE3hnS6Py+cLf5Zh/0t4dHnQ6g=",
+      "url": "js/fatfs/dist/fatfs.d.ts"
+    },
+    {
+      "hash": "sha256-j+U6RgIwkoc8kCkUwiUcpEQPbpxnFzbR8IWbhdHQQ3o=",
+      "url": "js/fatfs/dist/fatfs.js"
+    },
+    {
+      "hash": "sha256-hUbyqlHXMahVhZGgj/f0L+Q/5CgaQkfva0+RwmEBZfY=",
+      "url": "js/fatfs/dist/fatfs.min.js"
+    },
+    {
+      "hash": "sha256-t2afyyvKt4qqTSmMzc9pUWjyoc5AeLL7PJ0BRi8wq6w=",
+      "url": "js/fatfs/dist/fatfs.wasm"
+    },
+    {
+      "hash": "sha256-JXYYOj4cLS9LNiin75PC+TeHlpir3W1VTdcY55Bi4Hk=",
+      "url": "js/fatfs/fatfs/license.txt"
+    },
+    {
+      "hash": "sha256-UFpmMix+FGq/888ocGxtTuGK7ZGIM/dAPOaNvfFHIgE=",
+      "url": "js/fatfs/license"
+    },
+    {
+      "hash": "sha256-FcIXeUEvuHPtiDZQZYtPH1lt8EbhhTyLoZ+gWK2Mxi4=",
+      "url": "js/fatfs/package.json"
+    },
+    {
+      "hash": "sha256-2BLstc0D1b1/ytiB7m29Fc2Ka//Y5qkwHwdI4OQJqM4=",
+      "url": "js/fatfs/readme.md"
+    },
+    {
+      "hash": "sha256-YmXOMEwRdLB5XLc0oqGOTP3AVMSApapzIbfjFZZ4EAU=",
+      "url": "js/littlefs/.gitignore"
+    },
+    {
+      "hash": "sha256-nIo7pFwH3K2Wv2EMDzVcqxgzSY6oJkMr0neJBoHCM/M=",
+      "url": "js/littlefs/littlefs.js"
+    },
+    {
+      "hash": "sha256-ZOIXucVJjAbU/OUNUxuq0wBa3YRhAA0ODyhJ9vFG8CQ=",
+      "url": "js/littlefs/littlefs.min.js"
+    },
+    {
+      "hash": "sha256-6cDU3QWzy1Pjn/rUVDPVqkCOwLx3HfI+zyw/D8uQkuM=",
+      "url": "js/littlefs/package-lock.json"
+    },
+    {
+      "hash": "sha256-ecfLhkE3fcrY8VtXBPb8csHhjokIJmdgXf1RipEnKMI=",
+      "url": "js/littlefs/package.json"
+    },
+    {
+      "hash": "sha256-DQGxz9deO7A0+aAS7a3gOSb+XMnsjINBDejjp2RRFh0=",
+      "url": "js/littlefs/readme.md"
     },
     {
       "hash": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=",
