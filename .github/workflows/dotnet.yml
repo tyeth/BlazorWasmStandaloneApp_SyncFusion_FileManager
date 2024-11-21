@@ -25,7 +25,7 @@ jobs:
       run: dotnet restore
     - name: Build
       # run: dotnet build --no-restore
-      run: dotnet publish -c Release -o ./publish_output
+      run: dotnet publish -c Release -o ./_site
       
     - name: Upload GitHub Pages artifact
       uses: actions/upload-pages-artifact@v3.0.1
